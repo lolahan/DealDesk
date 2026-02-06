@@ -10,14 +10,6 @@ A high-performance, professional **GTM Finance Engine** built with Next.js 15. T
 - **Strategic Advisory**: Built-in logic to suggest deal terms and risk mitigation strategies.
 - **Elite Aesthetic**: High-contrast, typography-focused "Finance Terminal" UI with support for Dark/Light modes.
 
-## 🛠️ Tech Stack
-
-- **Framework**: Next.js 15 (App Router)
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
-- **AI**: OpenAI API
-- **Deployment**: Vercel
-
 ## 💼 Business Logic
 
 The engine follows standard enterprise SaaS pricing models:
